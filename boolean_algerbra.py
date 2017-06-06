@@ -4,10 +4,10 @@
 # For example
 
 if True: # The statement is already True so it will print
-	print("Hello")
+	print("True")
 
 if False: # False statement will be skipped
-	print("Hello")
+	print("False")
 
 # Comparison operators can be used to check if a condition is true or false
 # Equal ==
